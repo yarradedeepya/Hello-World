@@ -1,0 +1,12 @@
+ Volume in drive C is win-10
+ Volume Serial Number is E622-C9CF
+
+ Directory of C:\Users\com\OneDrive\Desktop\deva\jenkinstry
+
+07/17/2021  09:39 AM    <DIR>          .
+07/17/2021  09:39 AM    <DIR>          ..
+07/17/2021  09:39 AM                 0 info.txt
+07/16/2021  10:31 PM               412 readme.txt
+07/16/2021  10:13 PM                20 x.py
+               3 File(s)            432 bytes
+               2 Dir(s)  102,671,949,824 bytes free
